@@ -1,0 +1,15 @@
+#headerlink {
+    display: flex;
+    justify-content: space-between;
+}
+
+#link {
+    display: flex;
+    gap: 25px;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
